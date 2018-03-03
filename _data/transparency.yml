@@ -57,18 +57,18 @@
     
 -   name: Colorado
     2016-pirg-score: 93.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
-    source: https://www.colorado.gov/apps/oit/transparency/index.html
+    source: https://www.colorado.gov/apps/oit/transparency/
     review: 
             
 -   name: Connecticut
     2016-pirg-score: 99
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://transparency.ct.gov/html/main.asp
     review: Policy by State Legislature. Site was created in accordance with Public Act 10-155, An Act Requiring the Establishment of a Searchable Database for State Expenditures. This Public Act requires the Office of Fiscal Analysis to establish and maintain a website for the purpose of posting state agency expenditures, including contracts and grants. The Office of Fiscal Analysis (OFA) is a nonpartisan office that supports the Connecticut General Assembly. To read more about us, please visit our website at http://www.cga.ct.gov/ofa.
@@ -84,12 +84,12 @@
             
 -   name: Florida
     2016-pirg-score: 96
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 8
+    comments: 
     published-policy: 
     source: https://www.myfloridacfo.com/Transparency/
-    review:
+    review: Many sources of data are available for reports. The data can only be downloaded in PDF, XLS, or XML formats.
     
 -   name: Georgia
     2016-pirg-score: 74
@@ -120,29 +120,29 @@
         
 -   name: Illinois
     2016-pirg-score: 93
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://accountability.illinois.gov/
     review: 
             
 -   name: Indiana
     2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://www.in.gov/itp/
     review: Policy by State Legislature. S.B. 126 Status: March 28, 2016; Public Law No. 208-2016 : Requires local governments and school corporations to provide information for posting on the transparency Internet web site, including information concerning expenditures, lease payments, and fund balances; requires the Department of Local Government Finance to publish a financial and operational summary of each political subdivision; urges the Legislative Council to assign to a certain committee the topic of expanding the availability of open data.
             
 -   name: Iowa
     2016-pirg-score: 94.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    published-policy: 
-    source: https://dom.iowa.gov/state-budget
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: https://dom.iowa.gov/transparency
+    source: http://checkbook.iowa.gov/
     review: 
     
 -   name: Kansas
@@ -165,10 +165,9 @@
             
 -   name: Louisiana
     2016-pirg-score: 96
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    published-policy: 
+    accessibility: 7
+    downloadability: 7
+    comments: Reports can be generated from many dataset with some limitation to how they can be displayed. Only large datasets can be downloaded in xlsx format. 
     source: https://wwwcfprd.doa.louisiana.gov/latrac/portal.cfm
     review: The finance site states in many places that the data presented is inaccurate. C'est la vie.
             
@@ -192,18 +191,18 @@
             
 -   name: Massachusetts
     2016-pirg-score: 95.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
-    source: http://www.mass.gov/ago/news-and-updates/initiatives/promoting-transparency-and-open-government.html
+    source: https://www.macomptroller.org/cthru
     review: http://www.mass.gov/informedma/spending/Massachusetts earned a 67 — or a D+ — and tied with Iowa for 11th place nationwide in the State Integrity Investigation, conducted by the Center for Public Integrity and Global Integrity. The Massachusetts Legislature is one of just seven nationwide that completely exempt themselves from a state public records law, according to a Reporters Committee for the Freedom of the Press tally from 2011.
             
 -   name: Michigan
     2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: https://transparency.michigan.gov/
     review: https://www.datacoalition.org/data-transparency-2013-exhibitor-spotlight-teradata/
@@ -237,9 +236,9 @@
             
 -   name: Montana
     2016-pirg-score: 92
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: https://transparency.mt.gov/
     review: 
@@ -291,9 +290,9 @@
             
 -   name: New York
     2016-pirg-score: 93
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 0
+    comments: 
     published-policy: 
     source: http://seethroughny.net/
     review: Policy by State Legislature. MARCH 11, 2013 No. 95: Using Technology to Promote Transparency, Improve Government Performance and Enhance Citizen Engagement
@@ -318,27 +317,27 @@
 
 -   name: Ohio
     2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook
     review: 
             
 -   name: Oklahoma
     2016-pirg-score: 90.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: https://data.ok.gov/
     review: Policy by State Legislature. H.B. 1888 STATUS: Feb. 11, 2013; From House Committee on Government Modernization.Relates to public finance. Establishes the Oklahoma State Government Open Records One-Stop Initiative. Imposes duties on the chief information officer. Provides for delivery of certain documents. Requires electronic delivery. Requires certain documents be made available to the public. Provides for statutory construction. Provides for codification. Provides an effective date.
             
 -   name: Oregon
     2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: http://www.oregon.gov/Pages/datamoderation.aspx 
     source: http://www.oregon.gov/transparency/Pages/index.aspx
     review: 
@@ -372,12 +371,12 @@
             
 -   name: South Dakota
     2016-pirg-score: 90
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 5
+    downloadability: 5
+    comments: 
     published-policy: 
     source: http://open.sd.gov/
-    review: Unknown policy that required the Comprehensive Annual Financial Report  http://open.sd.gov/Info_fr.aspx 
+    review: Data is available online forms, but not easily available to get access to in a reporting format. Some areas allow for downloading all data in CSV, where others have no ability to download data. Unknown policy that required the Comprehensive Annual Financial Report  http://open.sd.gov/Info_fr.aspx 
             
 -   name: Tennessee
     2016-pirg-score: 85.5
@@ -391,13 +390,12 @@
 
 -   name: Texas
     2016-pirg-score: 93.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 8
+    downloadability: 10
+    comments: 
     published-policy: 
     source: https://comptroller.texas.gov/transparency/
-    review: Policy by State Legislature
-All open data and high-value data sets submitted by state agencies per Senate Bill 279 (83R) 
+    review: Many data sources can be reported on. However, it can be difficult to find and manipulate the reports. Major areas of finacial are available for download in CSV format. Policy by State Legislature. All open data and high-value data sets submitted by state agencies per Senate Bill 279 (83R) 
             
 -   name: Utah
     2016-pirg-score: 88
@@ -437,21 +435,21 @@ All open data and high-value data sets submitted by state agencies per Senate Bi
             
 -   name: West Virginia
     2016-pirg-score: 83
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 10
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://www.transparencywv.org/
     review: Policy by Governor. 11 May 2017, West Virginia State Auditor John B. McCuskey is launching a new open data platform that will make it easier for everyone — from ordinary citizens up through actual policymakers — to find, analyze and disseminate specific information about government 
             
 -   name: Wisconsin
     2016-pirg-score: 97
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 7
+    downloadability: 10
+    comments: 
     published-policy: 
     source: http://openbook.wi.gov/
-    review: 
+    review: Limited ability to generate reports, while many data sources available to review. Downloadable as XML, XLS, and CSV.
             
 -   name: Wyoming
     2016-pirg-score: 73
