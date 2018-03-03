@@ -29,4 +29,4 @@ Note that we have not scored some of the open data portals, as were focused on t
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.23">revision 0.23</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.24">revision 0.24</a>**
