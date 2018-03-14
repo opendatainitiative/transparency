@@ -6,12 +6,12 @@ title: Transparency
 # {{ page.title }}
 
 ### State Transparency Report 2017
-In late 2017, we evaluated the current status of open data policies in the states and municipalities using sources, policies, and implementations in detail.
+In late 2017, we evaluated the status of open data policies in the states using sources, policies, and implementations in detail.
 <br>
 <a href="/transparency-scorecard">go to details</a>
 
 ### State Open Data Portals with their Transparency Scored 2017
-Note that we have not scored some of the open data portals, as were focused on the lower PIRG scoring open data portals for this review. <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-money-2016-0">Review 2016 PIRG Government Spending Data report</a> and <a href="/scoring">review the ODI Scoring methodology.</a>
+Also <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-money-2016-0">review the 2016 PIRG Government Spending Data report</a> and <a href="/scoring">the ODI Scoring methodology.</a>
 
 <table cellpadding="10" border="1">
 	<tr>
