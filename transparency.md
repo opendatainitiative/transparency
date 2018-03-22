@@ -3,7 +3,7 @@ layout: default
 permalink: /transparency
 title: Transparency
 ---
-# {{ page.title }}
+# Government Open Data Portals
 
 ### State Transparency Report 2017
 In late 2017, we evaluated the status of open data policies in the states using sources, policies, and implementations in detail.
@@ -25,7 +25,7 @@ Also <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-mon
 {% for name in site.data.transparency %}
 {% assign score = name.2016-pirg-score | times: 0.80 | plus: name.accessibility | plus: name.downloadability | round: 1 %}
   <tr>
-  	<td class="tablecolumn">{{ name.name }}</td>
+  	<td class="tablecolumn"><a target="_blank" href="{{ name.source }}">{{ name.name }}</a></td>
   	<td class="tablecolumn">{{ score }}</td>
   	<td class="tablecolumn">{{ name.2016-pirg-score }}</td>
   	<td class="tablecolumn">{{ name.accessibility }}</td>
@@ -35,4 +35,4 @@ Also <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-mon
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.4.0">revision 0.4.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.5.0">revision 0.5.0</a>**
