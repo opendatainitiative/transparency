@@ -35,4 +35,4 @@ Also <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-mon
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.5.0">revision 0.5.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.6.0">revision 0.6.0</a>**
